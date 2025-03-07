@@ -42,7 +42,13 @@
    - **최종 모델 :** LightGBM (정확도 : 94.48%)
 2. **군집 분석**
    - **사용 기법 :** **K-means 알고리즘** 사용
-   - **군집별 특징을 파악**하고 타겟팅된 서비스 메시지 제안  
+   - **군집별 특징을 파악**하고 타겟팅된 서비스 메시지 제안
+<p align="center">
+  <img src="images/cluster0.png" alt="적정 군집 수" width="30%">
+  <img src="images/cluster.png" alt="군집 별 비율" width="30%">
+  <img src="images/cluster_analysis.png" alt="군집 별 특징 설명" width="30%">
+</p>
+
 
 
 ## 📈 모델 성능 비교
