@@ -63,6 +63,15 @@
 - **기대 효과**
   - 개인화된 마케팅 전략
   - **대출 승인율 증가** 및 **서비스 만족도 향상**
+<p align="center">
+  <img src="images/cluster_analysis0.png" alt="군집 해석" width="45%">
+  <img src="images/cluster_analysis1.png" alt="군집 해석1" width="45%">
+</p>
+<p align="center">
+  <img src="images/cluster_analysis2.png" alt="군집 해석2" width="45%">
+  <img src="images/cluster_analysis3.png" alt="군집 해석3" width="45%">
+</p>
+
 
 
 ## 결론 및 한계
