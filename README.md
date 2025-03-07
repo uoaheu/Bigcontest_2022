@@ -51,7 +51,10 @@
 | 랜덤포레스트      | 0.9426   | 0.4852     |
 | XGBoost          | 0.9432   | 0.5346     |
 | **LightGBM**     | **0.9448** | **0.5346** |
-![모델 비교](images/model.png)
+
+
+<img src="images/model.png" alt="모델 성능 비교" width="600">
+
 
 
 
